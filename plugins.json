@@ -1,0 +1,229 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=akwam.to&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ImZaw/cloudstream-extensions-arabic",
+        "fileSize": 13780,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Blatzar"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon"
+        ],
+        "version": 1,
+        "internalName": "AkwamProvider",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/ImZaw/cloudstream-extensions-arabic/builds/AkwamProvider.cs3",
+        "name": "AkwamProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animeblkom.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ImZaw/cloudstream-extensions-arabic",
+        "fileSize": 10923,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "AnimeBlkomProvider",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/ImZaw/cloudstream-extensions-arabic/builds/AnimeBlkomProvider.cs3",
+        "name": "AnimeBlkomProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animeiat.tv&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ImZaw/cloudstream-extensions-arabic",
+        "fileSize": 20668,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "AnimeiatProvider",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/ImZaw/cloudstream-extensions-arabic/builds/AnimeiatProvider.cs3",
+        "name": "AnimeiatProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=cimanow.cc&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ImZaw/cloudstream-extensions-arabic",
+        "fileSize": 14704,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "CimaNowProvider",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/ImZaw/cloudstream-extensions-arabic/builds/CimaNowProvider.cs3",
+        "name": "CimaNowProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.egy.best&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ImZaw/cloudstream-extensions-arabic",
+        "fileSize": 20297,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime"
+        ],
+        "version": 7,
+        "internalName": "EgyBestProvider",
+        "description": "If links do not load, try again",
+        "url": "https://raw.githubusercontent.com/ImZaw/cloudstream-extensions-arabic/builds/EgyBestProvider.cs3",
+        "name": "EgyBestProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ImZaw/cloudstream-extensions-arabic",
+        "fileSize": 14250,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 4,
+        "internalName": "FaselHDProvider",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/ImZaw/cloudstream-extensions-arabic/builds/FaselHDProvider.cs3",
+        "name": "FaselHDProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.fushaar.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ImZaw/cloudstream-extensions-arabic",
+        "fileSize": 11005,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Spoonge"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "FushaarProvider",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/ImZaw/cloudstream-extensions-arabic/builds/FushaarProvider.cs3",
+        "name": "FushaarProvider"
+    },
+    {
+        "iconUrl": "https://b.gateanime.cam/wp-content/uploads/2020/12/cropped-Favicon-192x192.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ImZaw/cloudstream-extensions-arabic",
+        "fileSize": 11621,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie",
+            "Cartoon"
+        ],
+        "version": 3,
+        "internalName": "GateAnimeProvider",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/ImZaw/cloudstream-extensions-arabic/builds/GateAnimeProvider.cs3",
+        "name": "GateAnimeProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=movizland.cyou&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ImZaw/cloudstream-extensions-arabic",
+        "fileSize": 12746,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Spoonge"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "MovizlandProvider",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/ImZaw/cloudstream-extensions-arabic/builds/MovizlandProvider.cs3",
+        "name": "MovizlandProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=mycima.tv&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ImZaw/cloudstream-extensions-arabic",
+        "fileSize": 18741,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "MyCimaProvider",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/ImZaw/cloudstream-extensions-arabic/builds/MyCimaProvider.cs3",
+        "name": "MyCimaProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=shahid4u.cc&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ImZaw/cloudstream-extensions-arabic",
+        "fileSize": 19435,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 4,
+        "internalName": "Shahid4uProvider",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/ImZaw/cloudstream-extensions-arabic/builds/Shahid4uProvider.cs3",
+        "name": "Shahid4uProvider"
+    }
+]
